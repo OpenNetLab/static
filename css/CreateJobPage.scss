@@ -1,0 +1,23 @@
+.create-job-container {
+  position: relative;
+  padding-bottom: 0px;
+  .title-zone {
+    width: 600px;
+    height: 80px;
+  }
+  .title {
+    width: 600px;
+    height: 48px;
+    font-size: 48px;
+    line-height: 36px;
+    color: #0078d4;
+    font-weight: bold;
+  }
+  .sub-title {
+    font-size: 14px;
+    line-height: 0px;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 0.5;
+  }
+}
